@@ -38,7 +38,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
-.env
 
 # pkgdown site
 docs/
@@ -48,8 +47,3 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
-
-# compiled code 
-src/*.o
-src/*.so
-src/*.dll
